@@ -1,21 +1,39 @@
 Grace Joel Kwagiri
+
 Data Analyst | Data Science Trainee
+
 Central Region, Uganda • kwagiriculture@gmail.com • [LinkedIn] • [GitHub/Portfolio]
+
 Professional Summary
+
 Analytical and detail-driven Data Analyst skilled in data cleaning, statistical analysis, SQL querying, Python programming, and dashboard development. Experienced in transforming complex datasets into actionable insights using Power BI, Excel, and Python libraries. Strong leadership background with experience in project coordination, content management, and technology advocacy. Adept at building data models, visualizations, and KPI-driven reports. Currently completing the IBM Data Science Professional Certificate with hands-on projects in health analytics, consumer behavior, and financial risk assessment.
+
 Technical Skills
+
 Data Analysis: Data cleaning, exploratory data analysis (EDA), KPI development, trend analysis
+
 Excel: Advanced formulas, Pivot Tables, VLOOKUP, data transformation
+
 SQL: Joins, CTEs, subqueries, aggregations, data extraction
+
 Python: pandas, NumPy, matplotlib, data preprocessing, statistical analysis
+
 Power BI: DAX, data modeling, interactive dashboards, report automation
+
 Other: Report writing, data visualization, workflow optimization
+
 Education
+
 Bachelor of Science in Animation & Visual Effects (Graduating 2026)
+
 Woman Techster Fellowship, Cohort 2026
+
 Certifications
+
 IBM Data Science Professional Certificate (Expected May 2026)
+
 Experience
+
 Data Analyst (Projects & Training) | Independent | 2024–Present
 •	Performed data cleaning, transformation, and EDA on health datasets using SQL and Python.
 •	Built Power BI dashboards to visualize patient trends, KPIs, and demographic insights.
