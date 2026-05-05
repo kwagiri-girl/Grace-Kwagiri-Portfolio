@@ -1,105 +1,85 @@
-Grace Joel Kwagiri
+<h1 align="center">Hi, I'm Grace Joel Kwagiri 👋</h1>
 
-Data Analyst | Data Science Trainee
+<h3 align="center">Junior Data Analyst | Python • SQL • PowerBI • Business Intelligence</h3>
 
-Central Region, Uganda • kwagiriculture@gmail.com • [LinkedIn] • [GitHub/Portfolio]
+---
 
+## 🧠 About Me
 
-Professional Summary
+Analytical and detail-driven Data Analyst with hands-on experience in data cleaning, exploratory data analysis (EDA), and dashboard development.
 
-Analytical and detail-driven Data Analyst skilled in data cleaning, statistical analysis, SQL querying, Python programming, and dashboard development. Experienced in transforming complex datasets into actionable insights using Power BI, Excel, and Python libraries. Strong leadership background with experience in project coordination, content management, and technology advocacy. Adept at building data models, visualizations, and KPI-driven reports. Currently completing the IBM Data Science Professional Certificate with hands-on projects in health analytics, consumer behavior, and financial risk assessment.
+I specialize in transforming complex datasets into actionable insights using Python, SQL, Excel, and Power BI. Currently completing the IBM Data Science Professional Certificate with project experience in health analytics, consumer behavior, and financial risk assessment.
 
+I’m passionate about using data to support decision-making, uncover trends, and solve real-world problems.
 
-Technical Skills
+---
 
-Data Analysis: Data cleaning, exploratory data analysis (EDA), KPI development, trend analysis
+## 🛠️ Technical Skills
 
-Excel: Advanced formulas, Pivot Tables, VLOOKUP, data transformation
+### 📊 Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- KPI Development
+- Trend Analysis
+- Statistical Analysis
 
-SQL: Joins, CTEs, subqueries, aggregations, data extraction
+### 💻 Tools & Technologies
+- **Python:** Pandas, NumPy, Matplotlib  
+- **SQL:** Joins, CTEs, Subqueries, Aggregations  
+- **Excel:** Pivot Tables, VLOOKUP, Advanced Formulas  
+- **Power BI:** DAX, Data Modeling, Interactive Dashboards  
 
-Python: pandas, NumPy, matplotlib, data preprocessing, statistical analysis
+---
 
-Power BI: DAX, data modeling, interactive dashboards, report automation
+## 📈 Projects
 
-Other: Report writing, data visualization, workflow optimization
+### 🔹 Health Data Analysis (SQL + Power BI)
+- Performed data cleaning and transformation using SQL and Python  
+- Analyzed patient data to identify trends and KPIs  
+- Built interactive dashboards for demographic and disease insights  
 
+### 🔹 Consumer Trend Dashboard (Power BI)
+- Conducted data modeling and analysis using DAX  
+- Identified customer behavior patterns and seasonal trends  
+- Developed dashboards for business insights and reporting  
 
-Education
+### 🔹 Financial Risk Assessment (Python)
+- Cleaned and analyzed financial datasets using Pandas and NumPy  
+- Applied statistical techniques for risk analysis  
+- Created visualizations to highlight risk indicators  
 
-Bachelor of Science in Animation & Visual Effects (Graduating 2026)
+---
 
-Woman Techster Fellowship, Cohort 2026
+## 📜 Certifications
 
+- IBM Data Science Professional Certificate *(In Progress)*
 
-Certifications
+---
 
-IBM Data Science Professional Certificate (Expected May 2026)
+## 🌍 Experience Snapshot
 
+- Data Analyst (Projects & Training) — 2024–Present  
+- Built dashboards, performed EDA, and developed ETL-style workflows  
 
-Experience
+- Team Lead (Internship) — Galaxy TV  
+- Managed workflows, improved efficiency, coordinated cross-functional teams  
 
-Data Analyst (Projects & Training) | Independent | 2025–Present
+- Minister of Science & Technology — ANSU  
+- Organized tech programs, workshops, and innovation initiatives  
 
-•	Performed data cleaning, transformation, and EDA on health datasets using SQL and Python.
+---
 
-•	Built Power BI dashboards to visualize patient trends, KPIs, and demographic insights.
+## 🤝 Let's Connect
 
-•	Conducted consumer trend analysis using Excel and Power BI to identify behavioral patterns and market segments.
+- 📧 Email: kwagiriculture@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/grace-kwagiri-969985221
+- 🌐 Portfolio: [Add if available]
 
-•	Executed financial risk assessment using Python, applying statistical techniques and generating visual insights.
+---
 
-•	Developed ETL-style workflows for importing, cleaning, and modeling data for reporting.
+## 🚀 Currently
 
-•	Documented findings through data-driven reports and visual storytelling.
+- Completing IBM Data Science Certification  
+- Building real-world data projects  
+- Open to Junior Data Analyst opportunities  
 
-
-Team Lead, TV Program Production (Internship) | Galaxy TV | 2025
-
-•	Led a production team, coordinating project timelines, workflows, and content pipelines.
-
-•	Managed program schedules, video assets, and content metadata, improving operational efficiency.
-
-•	Oversaw quality control of video segments and ensured alignment with production standards.
-
-•	Collaborated cross-functionally with editors and producers to optimize content delivery.
-
-
-Minister of Science & Technology | ANSU | Feb 2025 – Feb 2026
-
-•	Organized technology seminars, workshops, and digital literacy programs for students.
-
-•	Coordinated community outreach initiatives promoting tech adoption and innovation.
-
-•	Identified and prepared student teams for hackathons and tech competitions.
-
-•	Strengthened organizational tech infrastructure through planning and execution.
-Projects
-
-
-Health Data Analysis (SQL + Power BI)
-
-•	Queried large datasets using SQL joins, CTEs, and aggregations to uncover trends.
-
-•	Built interactive dashboards showing patient KPIs, disease frequency, and demographic patterns.
-Consumer Trend Dashboard (Power BI)
-
-•	Analyzed consumer behavior using data modeling and DAX measures.
-
-•	Created dashboards highlighting seasonal trends, product performance, and customer segments.
-
-
-Financial Risk Assessment (Python)
-
-•	Cleaned and analyzed financial datasets using pandas and NumPy.
-
-•	Built visualizations with matplotlib to identify risk categories and predictive indicators.
-
-
-Leadership & Community Engagement
-
-•	Woman Techster Fellowship member
-
-•	Organized tech seminars and hackathon talent pipelines
-
-•	Participant in Women’s Month Tech Girls Drive
